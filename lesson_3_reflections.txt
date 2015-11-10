@@ -10,3 +10,8 @@ Fork to give credit and copy only to github, Clone to work on my pc and Branch t
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Apply changes where needed faster.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+E-mail changes along with details. Easier to understand the changes faster, harder to implement them.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Branch leaves the master branch unaffected making easier to distiguish the change but requires more work.
